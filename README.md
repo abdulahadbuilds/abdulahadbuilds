@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: WordPress Websites, E-commerce Stores & UI/UX Projects
 - 🤔 I’m looking for help with: Open Source WordPress Projects
 - 💬 Ask me about: WordPress, Elementor, WooCommerce, HTML, CSS, PHP, JavaScript & Graphic Design
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: abdul.ahad21829@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning creative ideas into fast, responsive, and user-friendly websites.
 
